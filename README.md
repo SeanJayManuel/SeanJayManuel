@@ -10,4 +10,3 @@ I'm very interested in artifcial intelligence and data science along with data a
 - 👨🏽‍💻 I'm looking for an internship!
 - 📫 How to reach me: contact@seanjaymanuel.com
 - ⚡ Fun fact: I'm trilingual 🤩
--->
