@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 My name is Sean Manuel, I am an undergraduate computer science student @ Queen's University!
-I'm very interested in artifcial intelligence and data analytics. I recently 
+I'm very interested in artifcial intelligence and data analytics. I have experience working in data analytics and web development as well!
 
 - 🔭 I’m currently working on a machine learning project.
 - 🌱 I’m currently learning OpenGL and Haskell.
