@@ -9,7 +9,7 @@ I'm very interested in artifcial intelligence and data analytics. I have experie
 - 💬 Ask me about my upcoming projects and ventures.
 - 👨🏽‍💻 I'm looking for an internship!
 - 📫 How to reach me: contact@seanjaymanuel.com
-- ⚡ Fun fact: I have a personal website, check it out and give me your feedback! *seanjaymanuel.com*
+- ⚡ Fun fact: I have a [personal website](https://www.seanjaymanuel.com), check it out and give me your feedback! 
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
