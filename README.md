@@ -7,7 +7,6 @@ I'm very interested in artifcial intelligence and data analytics. I have experie
 - 🌱 I’m currently learning OpenGL and Haskell.
 - 👯 I’m looking to collaborate on an open source project.
 - 💬 Ask me about my upcoming projects and ventures.
-- 👨🏽‍💻 I'm looking for a new grad position!
 - 📫 How to reach me: contact@seanjaymanuel.com
 - ⚡ Fun fact: I have a [personal website](https://www.seanjaymanuel.com), check it out and give me your feedback! 
 
